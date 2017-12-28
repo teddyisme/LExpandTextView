@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ExpandTextView">
+        <attr name="expand_text_color" format="color" />
+        <attr name="expand_btn_text" format="string" />
+        <attr name="expand_btn_fold_text" format="string" />
+        <attr name="expand_text_content" format="string" />
+        <attr name="expand_text_max_line" format="integer" />
+        <attr name="expand_text_min_line" format="integer" />
+        <attr name="expand_btn_drawable" format="reference|integer" />
+        <attr name="expand_is_expand_init" format="boolean" />
+        <attr name="expand_is_expand_btn_left" format="boolean" />
+        <attr name="expand_text_line_space" format="integer" />
+        <attr name="expand_text_line_multi" format="float" />
+        <attr name="expand_text_scaleX" format="float" />
+    </declare-styleable>
+</resources>
